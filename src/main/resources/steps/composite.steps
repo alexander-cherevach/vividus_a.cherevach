@@ -1,0 +1,4 @@
+Composite: When I Sign In
+When I click on element located 'By.xpath(//a[@class='btn btn-sm btn-link text-white'])'
+When I enter 'signin@qa.com' in field located 'By.xpath(//input[@id='user'])'
+When I enter 'signin@qa.com' in field located 'By.xpath(//input[@id='password'])'
